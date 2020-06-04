@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/fedcc-create-react-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/fedcc-create-react-app/static/js/main.facce471.chunk.js",
-    "main.js.map": "/fedcc-create-react-app/static/js/main.facce471.chunk.js.map",
+    "main.js": "/fedcc-create-react-app/static/js/main.c7fa294b.chunk.js",
+    "main.js.map": "/fedcc-create-react-app/static/js/main.c7fa294b.chunk.js.map",
     "runtime-main.js": "/fedcc-create-react-app/static/js/runtime-main.1dcfa2f1.js",
     "runtime-main.js.map": "/fedcc-create-react-app/static/js/runtime-main.1dcfa2f1.js.map",
-    "static/js/2.bc2f5d50.chunk.js": "/fedcc-create-react-app/static/js/2.bc2f5d50.chunk.js",
-    "static/js/2.bc2f5d50.chunk.js.map": "/fedcc-create-react-app/static/js/2.bc2f5d50.chunk.js.map",
+    "static/js/2.5477d8b5.chunk.js": "/fedcc-create-react-app/static/js/2.5477d8b5.chunk.js",
+    "static/js/2.5477d8b5.chunk.js.map": "/fedcc-create-react-app/static/js/2.5477d8b5.chunk.js.map",
     "index.html": "/fedcc-create-react-app/index.html",
-    "precache-manifest.75e265caf9afc42814d86a6a0ebda274.js": "/fedcc-create-react-app/precache-manifest.75e265caf9afc42814d86a6a0ebda274.js",
+    "precache-manifest.e7f2ebca33e6a7c99dc1d6f2109270f0.js": "/fedcc-create-react-app/precache-manifest.e7f2ebca33e6a7c99dc1d6f2109270f0.js",
     "service-worker.js": "/fedcc-create-react-app/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/fedcc-create-react-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.bc2f5d50.chunk.js.LICENSE.txt": "/fedcc-create-react-app/static/js/2.bc2f5d50.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/fedcc-create-react-app/static/media/logo.5d5d9eef.svg"
+    "static/js/2.5477d8b5.chunk.js.LICENSE.txt": "/fedcc-create-react-app/static/js/2.5477d8b5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1dcfa2f1.js",
-    "static/js/2.bc2f5d50.chunk.js",
+    "static/js/2.5477d8b5.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.facce471.chunk.js"
+    "static/js/main.c7fa294b.chunk.js"
   ]
 }

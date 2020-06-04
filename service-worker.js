@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fedcc-create-react-app/precache-manifest.75e265caf9afc42814d86a6a0ebda274.js"
+  "/fedcc-create-react-app/precache-manifest.e7f2ebca33e6a7c99dc1d6f2109270f0.js"
 );
 
 self.addEventListener('message', (event) => {
