@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fedcc-create-react-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/fedcc-create-react-app/static/js/main.ba419e5a.chunk.js",
-    "main.js.map": "/fedcc-create-react-app/static/js/main.ba419e5a.chunk.js.map",
+    "main.js": "/fedcc-create-react-app/static/js/main.0b480ba6.chunk.js",
+    "main.js.map": "/fedcc-create-react-app/static/js/main.0b480ba6.chunk.js.map",
     "runtime-main.js": "/fedcc-create-react-app/static/js/runtime-main.1dcfa2f1.js",
     "runtime-main.js.map": "/fedcc-create-react-app/static/js/runtime-main.1dcfa2f1.js.map",
     "static/js/2.a31141c6.chunk.js": "/fedcc-create-react-app/static/js/2.a31141c6.chunk.js",
     "static/js/2.a31141c6.chunk.js.map": "/fedcc-create-react-app/static/js/2.a31141c6.chunk.js.map",
     "index.html": "/fedcc-create-react-app/index.html",
-    "precache-manifest.577a954ab569a3f84fe7eee9f55489d7.js": "/fedcc-create-react-app/precache-manifest.577a954ab569a3f84fe7eee9f55489d7.js",
+    "precache-manifest.da9eb7522d4da36f3df3f2e9c4a1daa4.js": "/fedcc-create-react-app/precache-manifest.da9eb7522d4da36f3df3f2e9c4a1daa4.js",
     "service-worker.js": "/fedcc-create-react-app/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/fedcc-create-react-app/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.a31141c6.chunk.js.LICENSE.txt": "/fedcc-create-react-app/static/js/2.a31141c6.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1dcfa2f1.js",
     "static/js/2.a31141c6.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ba419e5a.chunk.js"
+    "static/js/main.0b480ba6.chunk.js"
   ]
 }
